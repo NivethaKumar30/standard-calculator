@@ -264,6 +264,14 @@ body {
 </style>
 ```
 ## OUTPUT:
+![cal1](https://user-images.githubusercontent.com/119559844/215357516-84321229-9823-45a4-a7db-eb6a0ab0c3f2.png)
+
+
+![cal2](https://user-images.githubusercontent.com/119559844/215357541-54e98f49-47e3-4ef3-8483-3fabdab1fc41.png)
+
+
+![cal3](https://user-images.githubusercontent.com/119559844/215357554-31bde2b6-ee66-4450-9c0e-695c0b473d35.png)
+
 
 ## Result:
-
+The program for designing a simple calculator using JavaScript is executed successfully.
